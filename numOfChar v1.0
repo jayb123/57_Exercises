@@ -1,0 +1,23 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Apr 20 18:31:29 2021
+
+@author: jbinstein
+"""
+
+
+#counting the number of characters
+
+#user input
+inputString = input("What is your string?")
+
+
+#if input is blank return error message
+if inputString == "":
+  print("you need to enter a value into the string")
+  
+#print 
+else: 
+  output = inputString + " is " + str(len(inputString)) + " characters long!"
+  print(output)

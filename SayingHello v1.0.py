@@ -9,4 +9,6 @@ Created on Mon Apr 19 21:28:41 2021
 
 name = input("What is your name?")
 
-print("Hello, " + name + ", nice to meet you!")
+output = "Hello, " + name + ", nice to meet you!"
+
+print(output)

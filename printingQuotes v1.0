@@ -1,0 +1,17 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Apr 21 17:17:49 2021
+
+@author: jbinstein
+"""
+
+
+quote = input("What is the quote?")
+author = input("who is the author?")
+
+
+output = author + " says, \"" + quote + "\""
+
+print(output)
+

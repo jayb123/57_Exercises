@@ -6,4 +6,5 @@ Exercise # 3: Printing Quotes\
 Exercise # 4: Madlib\
 Exercise # 5: Simple Math\
 Exercise # 6: Retirement Calculator\
-Exercise # 7: Area of a Rectangle
+Exercise # 7: Area of a Rectangle\
+Exercise # 8: Pizza Party\

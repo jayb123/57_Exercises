@@ -8,4 +8,5 @@ Exercise # 5: Simple Math\
 Exercise # 6: Retirement Calculator\
 Exercise # 7: Area of a Rectangle\
 Exercise # 8: Pizza Party\
-Exercies # 9: Paint Calculator
+Exercies # 9: Paint Calculator\
+Exercies # 10: Checkout Calculator

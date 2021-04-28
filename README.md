@@ -10,4 +10,6 @@ Exercise # 7: Area of a Rectangle\
 Exercise # 8: Pizza Party\
 Exercise # 9: Paint Calculator\
 Exercise # 10: Checkout Calculator\
-Exercise # 11: Currency Conversion
+Exercise # 11: Currency Conversion\
+Exercise # 12: Simple Interest\
+Exercise # 13: Compount Interest

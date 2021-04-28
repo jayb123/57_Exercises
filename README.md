@@ -12,4 +12,5 @@ Exercise # 9: Paint Calculator\
 Exercise # 10: Checkout Calculator\
 Exercise # 11: Currency Conversion\
 Exercise # 12: Simple Interest\
-Exercise # 13: Compount Interest
+Exercise # 13: Compound Interest\
+Exercise # 14: Tax Calculator
